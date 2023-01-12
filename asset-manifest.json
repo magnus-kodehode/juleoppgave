@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/juleoppgave/static/css/main.0d4f99c7.css",
+    "main.js": "/juleoppgave/static/js/main.d4341a69.js",
+    "static/js/787.5c011514.chunk.js": "/juleoppgave/static/js/787.5c011514.chunk.js",
+    "static/media/background-desktop.jpg": "/juleoppgave/static/media/background-desktop.9397f7503114057578ff.jpg",
+    "static/media/background-mobile.jpg": "/juleoppgave/static/media/background-mobile.3a1c1750ca889794ab75.jpg",
+    "index.html": "/juleoppgave/index.html",
+    "main.0d4f99c7.css.map": "/juleoppgave/static/css/main.0d4f99c7.css.map",
+    "main.d4341a69.js.map": "/juleoppgave/static/js/main.d4341a69.js.map",
+    "787.5c011514.chunk.js.map": "/juleoppgave/static/js/787.5c011514.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4f99c7.css",
+    "static/js/main.d4341a69.js"
+  ]
+}
